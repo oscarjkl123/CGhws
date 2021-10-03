@@ -1,4 +1,4 @@
-大家好~我是周聿丞 班號為i4a33
-#以下為Computer Graphics Homework 的解說
-##可以點選這裡*[https://github.com/oscarjkl123/CGhws/index.html] 跳轉到首頁
-###如有任何問題，請發送信件到此信箱:oscar462000@gmail.com
+# 計算機圖學作業<br>
+## 410706133 I4A33 周聿丞<br>
+## 可以點選[這裡](https://github.com/oscarjkl123/CGhws/index.html)前往首頁<br>
+### 我的信箱是:oscar462000@gmail.com 有任何問題都可以來信詢問
